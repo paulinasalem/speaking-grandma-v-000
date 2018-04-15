@@ -3,7 +3,7 @@ if phrase=="I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN!"
 elsif phrase==phrase.upcase
     "NO, NOT SINCE 1938!"
-  elsif
+  elsif phrase ==!phrase.upcase
     "HUH?! SPEAK UP, SONNY!"
 end
 end
